@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-image{
+    object-position: 50% 30%;
+    
+}
+
+#imageDiv{
+    transition:all linear 0.2s;
+}
